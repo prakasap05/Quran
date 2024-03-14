@@ -1,4 +1,4 @@
-# Quran
+### Quran
 Easy to use for all CLI
 
 Installation method:
@@ -12,3 +12,4 @@ $ cd Quran
 
 $ python myquran.py
 ```
+### Output

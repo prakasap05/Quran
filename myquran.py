@@ -14,7 +14,7 @@ def alquran(id_surat, id_ayat):
 os.system('clear') #change cls or clear
 print(f"""
 ######################################
-Al-Quran Indonesia | Libary alquran_id
+Al-Quran Indonesia | Libary alquran-id
       Developed by Prakasa Putra
 ######################################
 

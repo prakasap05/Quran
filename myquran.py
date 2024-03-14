@@ -23,7 +23,7 @@ kas_surah = input('Masukkan nomor surah: ')
 kas_ayat = input('Masukkan nomor ayat nya: ')
 
 quran = alquran(kas_surah, kas_ayat)
-print('------------------------------------------------')
+print('---------------------------------------------------')
 print(f"""
 Nama Surat      = {quran[0]} / {quran[1]}
 Jumlah Ayat     = {quran[3]}
